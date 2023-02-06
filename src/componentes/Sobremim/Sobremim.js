@@ -11,7 +11,7 @@ function Sobremim(props){
                 <div className='container'>
                      <img src="https://github.com/Luikemc.png" alt="Luiz Henrique" className='image'></img>
                         <div className='middle'>
-                        <div className='text'>Ola, Me chamo Luiz Henrique Martins Chaves. PoEstou cursando Bacharelado em Ciências da Computação no Instituto Federal de Goiás em Anápolis (IFG), Goiás. 
+                        <div className='text'>Ola, Me chamo Luiz Henrique Martins Chaves. Estou cursando Bacharelado em Ciências da Computação no Instituto Federal de Goiás em Anápolis (IFG), Goiás. 
                                             Tenho conhecimento na área de suporte e Front-End utilizando ferramentas como  HTML, CSS, JAVASCRIPT, REACT JS, GITHUB, MYSQL. 
                                             Tenho conhecimento em metodologias ágeis como SCRUM.. 
                                        </div>
