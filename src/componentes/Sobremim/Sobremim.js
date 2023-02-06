@@ -11,10 +11,10 @@ function Sobremim(props){
                 <div className='container'>
                      <img src="https://github.com/Luikemc.png" alt="Luiz Henrique" className='image'></img>
                         <div className='middle'>
-                        <div className='text'>Ola, Me chamo Luiz Henrique Martins Chaves. Por meio desse portifolio venho 
-                                            demonstrar meus conhecimentos e minhas habilidades para assim realmente conseguir um
-                                            verdadeiro estatio/emprego e adquirir experiencia.
-                                            No momento so tive experiencia em suporte em uma multi nascional chamada fresenius kabi. </div>
+                        <div className='text'>Ola, Me chamo Luiz Henrique Martins Chaves. PoEstou cursando Bacharelado em Ciências da Computação no Instituto Federal de Goiás em Anápolis (IFG), Goiás. 
+                                            Tenho conhecimento na área de suporte e Front-End utilizando ferramentas como  HTML, CSS, JAVASCRIPT, REACT JS, GITHUB, MYSQL. 
+                                            Tenho conhecimento em metodologias ágeis como SCRUM.. 
+                                       </div>
                  </div>
                     </div>
                 </div>
